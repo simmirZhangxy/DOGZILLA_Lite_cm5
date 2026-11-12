@@ -1,0 +1,10 @@
+# 本地 API 密钥（仓库内使用 API_KEY.example.py 作模板）
+RaspberryPi-CM4-main/demos/API_KEY.py
+
+model/
+**/model copy/
+**/.ipynb_checkpoints/
+**/__pycache__/
+.vscode/
+*.pyc
+.DS_Store
